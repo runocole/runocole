@@ -26,17 +26,17 @@ I love working with Node.js, Django, and React, and I'm always exploring new tec
 ---
 
 ## 📂 Projects
-- [PLS Scouting Platform](https://github.com/ColeNaomi/PLS-scouting) - Premier League scouting app
+- [PLS Scouting Platform](https://github.com/runocole/PLS-scouting) - Premier League scouting app
 - [Portfolio](https://runocole.netlify.app) - My personal portfolio
-- [Other Project](https://github.com/ColeNaomi) - More projects coming soon!
+- [Smart Queue Management System ](https://github.com/runocole/easypass-backend) 
 
 ---
 
 ## 📊 GitHub Stats
-![Cole's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColeNaomi&show_icons=true&hide=issues,prs&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ColeNaomi&layout=compact&theme=radical)
+![Cole's GitHub stats](https://github-readme-stats.vercel.app/api?username=runocole&show_icons=true&hide=issues,prs&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=runocole&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/cole-naomi) | [Email](mailto:runocole@gmail.com) | [Twitter](https://twitter.com/yourhandle)
+[LinkedIn](https://www.linkedin.com/in/cole-naomi) | [Email](mailto:runocole@gmail.com) | 
