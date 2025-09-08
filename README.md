@@ -1,37 +1,39 @@
-# Hi, I'm Cole Naomi 👋
+# Hello! I'm Cole Naomi 👋
 
-### Backend & AI/ML Engineer | Full-Stack Developer  
-Passionate about building scalable web applications, intelligent data solutions, and sleek user experiences.  
-I enjoy working with **Python, Django, Node.js, React**, and exploring new technologies in **AI/ML, cloud, and data-driven apps**.
+## About Me
+I'm a **Backend & AI/ML Engineer** passionate about building **scalable applications**, intelligent data solutions, and robust backend systems.  
+I specialize in **Python, Django, Node.js, PostgreSQL**, and cloud deployments (AWS/Docker).  
+I also enjoy exploring **machine learning workflows, data pipelines, and model deployment** to create data-driven solutions that solve real-world problems.
 
 ---
 
-## 🛠 Skills
+## Technical Skills
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=fff) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000) 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
 
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=fff) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff) 
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=fff) 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring&logoColor=fff)
+### Frameworks & APIs
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) 
+![Django REST Framework](https://img.shields.io/badge/-DRF-092E20?style=flat)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
 
-### Databases & Data
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0064a5?style=flat&logo=postgresql&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=fff)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=fff)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=fff)
+### Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff) 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=fff) 
-![CI/CD](https://img.shields.io/badge/-CI/CD-0052CC?style=flat) 
+### AI/ML & Data
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat) 
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) 
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-007ACC?style=flat)
 
 ---
 
