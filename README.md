@@ -17,7 +17,8 @@ I also enjoy exploring **machine learning workflows, data pipelines, and model d
 ### Frameworks & APIs
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) 
 ![Django REST Framework](https://img.shields.io/badge/-DRF-092E20?style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi) 
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ### Databases & Caching
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
