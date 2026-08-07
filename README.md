@@ -12,7 +12,7 @@ I build **scalable backend systems**, **AI-driven data solutions**, and **produc
 
 I'm a software engineer with hands-on experience across **backend engineering, AI/ML, and full-stack development**. I specialize in **Python, Django, Node.js, and PostgreSQL**, paired with **React** on the frontend and **AWS/Docker** for deployment.
 
-Currently building enterprise backend systems at **OTIC Surveys**, and previously led backend development for an early-stage e-commerce platform as **Lead Backend Developer at NexusMind**. I've also delivered 5+ freelance production applications end-to-end — from architecture to deployment to client support.
+Currently building enterprise backend systems at **OTIC Geosystems**, and previously led backend development for an early-stage e-commerce platform as **Lead Backend Developer at NexusMind**. I've also delivered 5+ freelance production applications end-to-end — from architecture to deployment to client support.
 
 I care about **clean API design, query optimization, secure authentication systems, and building things that scale.**
 
@@ -119,7 +119,7 @@ Queue automation system for student check-ins and seat allocation.
 
 ## 💡 Experience Highlights
 
-- **Software Engineer @ OTIC Surveys** *(Oct 2025 – Present)* — Backend reliability, API design, and data architecture using Django, Python, and PostgreSQL
+- **Software Engineer @ OTIC Geosystems** *(Oct 2025 – Present)* — Backend reliability, API design, and data architecture using Django, Python, and PostgreSQL
 - **Lead Backend Developer @ NexusMind** *(Jul 2025 – Apr 2026)* — Led API architecture and database design for an e-commerce platform; cut response times by 35%
 - **Freelance Full-Stack Engineer** *(2023 – Present)* — Delivered 5+ contract-based production applications across the full project lifecycle
 - **Full-Stack Development Intern @ AFCC** *(Jan – Jul 2024)* — Built backend APIs and frontend features with Django REST Framework and React
